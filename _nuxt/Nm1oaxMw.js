@@ -1,0 +1,1 @@
+import{_ as t,c as n,a as e,F as o,o as a}from"./Cmpe_WKc.js";const r={};function c(l,s){return a(),n(o,null,[s[0]||(s[0]=e("p",{class:"text-base"},"This is using Noto Sans",-1)),s[1]||(s[1]=e("p",{class:"font-khmer"},"សួស្តី!",-1))],64)}const i=t(r,[["render",c]]);export{i as default};

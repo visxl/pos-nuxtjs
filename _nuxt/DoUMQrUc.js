@@ -1,0 +1,1 @@
+import{c as o}from"./BDck7c17.js";import{p as a,o as n,c,E as t,B as d,h as l}from"./Cmpe_WKc.js";const u=a({__name:"Card",props:{class:{}},setup(s){const r=s;return(e,p)=>(n(),c("div",{class:d(l(o)("rounded-xl border bg-card text-card-foreground shadow",r.class))},[t(e.$slots,"default")],2))}});export{u as _};
